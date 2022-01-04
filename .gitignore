@@ -20,6 +20,6 @@ doc/api/
 *.js.deps
 *.js.map
 
-.icons/
-.master_helper_rpg/
+icons/
+master_helper_rpg/
 
