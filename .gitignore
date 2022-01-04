@@ -21,3 +21,5 @@ doc/api/
 *.js.map
 
 .icons/
+./master_helper_rpg/
+
